@@ -43,7 +43,7 @@
     "address": "1.0.3",
     "browserslist": "2.11.3",
     "chalk": "2.3.0",
-    "cross-spawn": "5.1.0",
+    "cross-spawn": "7.0.5",
     "detect-port-alt": "1.1.5",
     "divi-error-overlay": "^1.0.0",
     "escape-string-regexp": "1.0.5",
